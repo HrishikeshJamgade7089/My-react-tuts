@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-react-tuts/static/css/main.e6c13ad2.css",
+    "main.js": "/My-react-tuts/static/js/main.089305ba.js",
+    "static/js/787.fade2e9e.chunk.js": "/My-react-tuts/static/js/787.fade2e9e.chunk.js",
+    "index.html": "/My-react-tuts/index.html",
+    "main.e6c13ad2.css.map": "/My-react-tuts/static/css/main.e6c13ad2.css.map",
+    "main.089305ba.js.map": "/My-react-tuts/static/js/main.089305ba.js.map",
+    "787.fade2e9e.chunk.js.map": "/My-react-tuts/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.089305ba.js"
+  ]
+}
